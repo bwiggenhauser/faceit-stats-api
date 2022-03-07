@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start" : "node index.js",
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -19,5 +19,8 @@
   "homepage": "https://github.com/bwiggenhauser/faceit-stats-api#readme",
   "engines": {
     "node": "16.x"
+  },
+  "dependencies": {
+    "express": "^4.17.3"
   }
 }
