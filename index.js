@@ -5,8 +5,10 @@ const server = http.createServer(app)
 
 app.use(express.static("public"))
 
+const faceitData = require("./faceitData.json")
+
 app.get("/", (req, res) => {
-	res.send("test")
+	res.send(faceitData)
 })
 
 server.listen(process.env.PORT || 3000, () => {
