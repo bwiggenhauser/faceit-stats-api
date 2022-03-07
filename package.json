@@ -1,0 +1,22 @@
+{
+  "name": "faceit-stats-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bwiggenhauser/faceit-stats-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bwiggenhauser/faceit-stats-api/issues"
+  },
+  "homepage": "https://github.com/bwiggenhauser/faceit-stats-api#readme",
+  "engines": {
+    "node": "14.x"
+  }
+}
