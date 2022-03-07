@@ -1,0 +1,1243 @@
+{
+    "statistics": [
+        {
+            "title": "Die heftigsten Fragger",
+            "subtitle": "Die meisten durchschnittlichen Kills pro Match",
+            "stats": [
+                {
+                    "place": 0,
+                    "name": "LilPepe1337",
+                    "value": "22.30"
+                },
+                {
+                    "place": 1,
+                    "name": "baddley",
+                    "value": "21.84"
+                },
+                {
+                    "place": 2,
+                    "name": "Spackomat500",
+                    "value": "20.24"
+                },
+                {
+                    "place": 3,
+                    "name": "Pferdinand",
+                    "value": "18.46"
+                },
+                {
+                    "place": 4,
+                    "name": "mafbaf221",
+                    "value": "18.14"
+                },
+                {
+                    "place": 5,
+                    "name": "Detadras",
+                    "value": "17.78"
+                },
+                {
+                    "place": 6,
+                    "name": "sicktastick",
+                    "value": "17.50"
+                },
+                {
+                    "place": 7,
+                    "name": "Salzjolle",
+                    "value": "17.16"
+                },
+                {
+                    "place": 8,
+                    "name": "ViV",
+                    "value": "15.60"
+                },
+                {
+                    "place": 9,
+                    "name": "JKi98",
+                    "value": "14.50"
+                },
+                {
+                    "place": 10,
+                    "name": "Mendeluni",
+                    "value": "13.69"
+                }
+            ],
+            "image": "most_kills.jpg"
+        },
+        {
+            "title": "Eifrigste Frontsoldaten",
+            "subtitle": "Die meisten durchschnittlichen First Kills pro Match",
+            "stats": [
+                {
+                    "place": 0,
+                    "name": "LilPepe1337",
+                    "value": "3.50"
+                },
+                {
+                    "place": 1,
+                    "name": "baddley",
+                    "value": "3.22"
+                },
+                {
+                    "place": 2,
+                    "name": "Salzjolle",
+                    "value": "3.12"
+                },
+                {
+                    "place": 3,
+                    "name": "Pferdinand",
+                    "value": "2.98"
+                },
+                {
+                    "place": 4,
+                    "name": "Detadras",
+                    "value": "2.78"
+                },
+                {
+                    "place": 5,
+                    "name": "mafbaf221",
+                    "value": "2.70"
+                },
+                {
+                    "place": 6,
+                    "name": "ViV",
+                    "value": "2.20"
+                },
+                {
+                    "place": 7,
+                    "name": "Spackomat500",
+                    "value": "2.16"
+                },
+                {
+                    "place": 8,
+                    "name": "sicktastick",
+                    "value": "1.84"
+                },
+                {
+                    "place": 9,
+                    "name": "JKi98",
+                    "value": "1.82"
+                },
+                {
+                    "place": 10,
+                    "name": "Mendeluni",
+                    "value": "1.59"
+                }
+            ],
+            "image": "opening_kills.jpg"
+        },
+        {
+            "title": "Fleißigste Großhändler",
+            "subtitle": "Die meisten durchschnittlichen Trade Kills pro Match",
+            "stats": [
+                {
+                    "place": 0,
+                    "name": "Spackomat500",
+                    "value": "3.72"
+                },
+                {
+                    "place": 1,
+                    "name": "sicktastick",
+                    "value": "3.56"
+                },
+                {
+                    "place": 2,
+                    "name": "LilPepe1337",
+                    "value": "3.52"
+                },
+                {
+                    "place": 3,
+                    "name": "baddley",
+                    "value": "3.46"
+                },
+                {
+                    "place": 4,
+                    "name": "Pferdinand",
+                    "value": "3.20"
+                },
+                {
+                    "place": 5,
+                    "name": "Detadras",
+                    "value": "3.12"
+                },
+                {
+                    "place": 6,
+                    "name": "ViV",
+                    "value": "3.04"
+                },
+                {
+                    "place": 7,
+                    "name": "mafbaf221",
+                    "value": "2.96"
+                },
+                {
+                    "place": 8,
+                    "name": "Mendeluni",
+                    "value": "2.56"
+                },
+                {
+                    "place": 9,
+                    "name": "Salzjolle",
+                    "value": "2.22"
+                },
+                {
+                    "place": 10,
+                    "name": "JKi98",
+                    "value": "2.06"
+                }
+            ],
+            "image": "trade_kills.jpg"
+        },
+        {
+            "title": "Syrisches Blut in den Adern",
+            "subtitle": "Die meisten durchschnittlichen Kills pro Match auf der T-Seite",
+            "stats": [
+                {
+                    "place": 0,
+                    "name": "Spackomat500",
+                    "value": "9.98"
+                },
+                {
+                    "place": 1,
+                    "name": "baddley",
+                    "value": "9.94"
+                },
+                {
+                    "place": 2,
+                    "name": "LilPepe1337",
+                    "value": "9.35"
+                },
+                {
+                    "place": 3,
+                    "name": "mafbaf221",
+                    "value": "8.58"
+                },
+                {
+                    "place": 4,
+                    "name": "Pferdinand",
+                    "value": "8.56"
+                },
+                {
+                    "place": 5,
+                    "name": "Detadras",
+                    "value": "8.18"
+                },
+                {
+                    "place": 6,
+                    "name": "sicktastick",
+                    "value": "7.92"
+                },
+                {
+                    "place": 7,
+                    "name": "Salzjolle",
+                    "value": "7.80"
+                },
+                {
+                    "place": 8,
+                    "name": "ViV",
+                    "value": "7.44"
+                },
+                {
+                    "place": 9,
+                    "name": "Mendeluni",
+                    "value": "6.65"
+                },
+                {
+                    "place": 10,
+                    "name": "JKi98",
+                    "value": "6.12"
+                }
+            ],
+            "image": "most_kills_t_side.jpg"
+        },
+        {
+            "title": "Geborene Cops",
+            "subtitle": "Die meisten durchschnittlichen Kills pro Match auf der CT-Seite",
+            "stats": [
+                {
+                    "place": 0,
+                    "name": "LilPepe1337",
+                    "value": "13.14"
+                },
+                {
+                    "place": 1,
+                    "name": "baddley",
+                    "value": "12.35"
+                },
+                {
+                    "place": 2,
+                    "name": "Spackomat500",
+                    "value": "10.26"
+                },
+                {
+                    "place": 3,
+                    "name": "sicktastick",
+                    "value": "9.94"
+                },
+                {
+                    "place": 4,
+                    "name": "Pferdinand",
+                    "value": "9.90"
+                },
+                {
+                    "place": 5,
+                    "name": "Detadras",
+                    "value": "9.76"
+                },
+                {
+                    "place": 6,
+                    "name": "mafbaf221",
+                    "value": "9.76"
+                },
+                {
+                    "place": 7,
+                    "name": "Salzjolle",
+                    "value": "9.71"
+                },
+                {
+                    "place": 8,
+                    "name": "JKi98",
+                    "value": "8.85"
+                },
+                {
+                    "place": 9,
+                    "name": "ViV",
+                    "value": "8.63"
+                },
+                {
+                    "place": 10,
+                    "name": "Mendeluni",
+                    "value": "7.38"
+                }
+            ],
+            "image": "most_kills_ct_side.jpg"
+        },
+        {
+            "title": "Pistol-Round-Könige",
+            "subtitle": "Die meisten durchschnittlichen Pistol Round Kills pro Match",
+            "stats": [
+                {
+                    "place": 0,
+                    "name": "baddley",
+                    "value": "2.31"
+                },
+                {
+                    "place": 1,
+                    "name": "sicktastick",
+                    "value": "2.08"
+                },
+                {
+                    "place": 2,
+                    "name": "LilPepe1337",
+                    "value": "2.05"
+                },
+                {
+                    "place": 3,
+                    "name": "Detadras",
+                    "value": "1.95"
+                },
+                {
+                    "place": 4,
+                    "name": "mafbaf221",
+                    "value": "1.95"
+                },
+                {
+                    "place": 5,
+                    "name": "Spackomat500",
+                    "value": "1.93"
+                },
+                {
+                    "place": 6,
+                    "name": "JKi98",
+                    "value": "1.81"
+                },
+                {
+                    "place": 7,
+                    "name": "Salzjolle",
+                    "value": "1.79"
+                },
+                {
+                    "place": 8,
+                    "name": "Pferdinand",
+                    "value": "1.64"
+                },
+                {
+                    "place": 9,
+                    "name": "Mendeluni",
+                    "value": "1.56"
+                },
+                {
+                    "place": 10,
+                    "name": "ViV",
+                    "value": "1.39"
+                }
+            ],
+            "image": "pistol_round_kills.jpg"
+        },
+        {
+            "title": "Scream 2.0",
+            "subtitle": "Die höchste durchschnittliche Headshot %",
+            "stats": [
+                {
+                    "place": 0,
+                    "name": "mafbaf221",
+                    "value": "48.09"
+                },
+                {
+                    "place": 1,
+                    "name": "sicktastick",
+                    "value": "47.12"
+                },
+                {
+                    "place": 2,
+                    "name": "ViV",
+                    "value": "45.23"
+                },
+                {
+                    "place": 3,
+                    "name": "Salzjolle",
+                    "value": "39.75"
+                },
+                {
+                    "place": 4,
+                    "name": "LilPepe1337",
+                    "value": "38.73"
+                },
+                {
+                    "place": 5,
+                    "name": "Pferdinand",
+                    "value": "37.86"
+                },
+                {
+                    "place": 6,
+                    "name": "baddley",
+                    "value": "37.45"
+                },
+                {
+                    "place": 7,
+                    "name": "Mendeluni",
+                    "value": "35.40"
+                },
+                {
+                    "place": 8,
+                    "name": "Spackomat500",
+                    "value": "33.58"
+                },
+                {
+                    "place": 9,
+                    "name": "JKi98",
+                    "value": "33.50"
+                },
+                {
+                    "place": 10,
+                    "name": "Detadras",
+                    "value": "30.73"
+                }
+            ],
+            "image": "headshot_percentage.jpg"
+        },
+        {
+            "title": "Support Götter",
+            "subtitle": "Die meisten durchschnittlich geworfenen Flashbangs pro Match",
+            "stats": [
+                {
+                    "place": 0,
+                    "name": "Pferdinand",
+                    "value": "23.50"
+                },
+                {
+                    "place": 1,
+                    "name": "LilPepe1337",
+                    "value": "23.16"
+                },
+                {
+                    "place": 2,
+                    "name": "baddley",
+                    "value": "18.46"
+                },
+                {
+                    "place": 3,
+                    "name": "ViV",
+                    "value": "18.20"
+                },
+                {
+                    "place": 4,
+                    "name": "Detadras",
+                    "value": "14.98"
+                },
+                {
+                    "place": 5,
+                    "name": "Spackomat500",
+                    "value": "13.44"
+                },
+                {
+                    "place": 6,
+                    "name": "Mendeluni",
+                    "value": "10.46"
+                },
+                {
+                    "place": 7,
+                    "name": "sicktastick",
+                    "value": "9.84"
+                },
+                {
+                    "place": 8,
+                    "name": "mafbaf221",
+                    "value": "9.80"
+                },
+                {
+                    "place": 9,
+                    "name": "Salzjolle",
+                    "value": "8.27"
+                },
+                {
+                    "place": 10,
+                    "name": "JKi98",
+                    "value": "7.34"
+                }
+            ],
+            "image": "thrown_flashes.jpg"
+        },
+        {
+            "title": "Die größten Blender",
+            "subtitle": "Die meiste durchschnittliche Flash Duration pro Match",
+            "stats": [
+                {
+                    "place": 0,
+                    "name": "LilPepe1337",
+                    "value": "105.19"
+                },
+                {
+                    "place": 1,
+                    "name": "Pferdinand",
+                    "value": "96.00"
+                },
+                {
+                    "place": 2,
+                    "name": "ViV",
+                    "value": "80.69"
+                },
+                {
+                    "place": 3,
+                    "name": "Detadras",
+                    "value": "72.65"
+                },
+                {
+                    "place": 4,
+                    "name": "baddley",
+                    "value": "69.88"
+                },
+                {
+                    "place": 5,
+                    "name": "Spackomat500",
+                    "value": "60.39"
+                },
+                {
+                    "place": 6,
+                    "name": "sicktastick",
+                    "value": "46.73"
+                },
+                {
+                    "place": 7,
+                    "name": "mafbaf221",
+                    "value": "42.27"
+                },
+                {
+                    "place": 8,
+                    "name": "Salzjolle",
+                    "value": "41.13"
+                },
+                {
+                    "place": 9,
+                    "name": "Mendeluni",
+                    "value": "36.10"
+                },
+                {
+                    "place": 10,
+                    "name": "JKi98",
+                    "value": "32.24"
+                }
+            ],
+            "image": "weiß.jpg"
+        },
+        {
+            "title": "Luftangriff-Beauftragte",
+            "subtitle": "Die meisten durchschnittlich geworfenen HE-Granaten pro Match",
+            "stats": [
+                {
+                    "place": 0,
+                    "name": "Spackomat500",
+                    "value": "13.10"
+                },
+                {
+                    "place": 1,
+                    "name": "Detadras",
+                    "value": "8.98"
+                },
+                {
+                    "place": 2,
+                    "name": "sicktastick",
+                    "value": "8.32"
+                },
+                {
+                    "place": 3,
+                    "name": "Salzjolle",
+                    "value": "7.12"
+                },
+                {
+                    "place": 4,
+                    "name": "LilPepe1337",
+                    "value": "6.54"
+                },
+                {
+                    "place": 5,
+                    "name": "Mendeluni",
+                    "value": "6.05"
+                },
+                {
+                    "place": 6,
+                    "name": "mafbaf221",
+                    "value": "5.52"
+                },
+                {
+                    "place": 7,
+                    "name": "Pferdinand",
+                    "value": "5.20"
+                },
+                {
+                    "place": 8,
+                    "name": "JKi98",
+                    "value": "5.19"
+                },
+                {
+                    "place": 9,
+                    "name": "baddley",
+                    "value": "4.53"
+                },
+                {
+                    "place": 10,
+                    "name": "ViV",
+                    "value": "2.42"
+                }
+            ],
+            "image": "thrown_grenades.jpg"
+        },
+        {
+            "title": "HE Grenade-Meister",
+            "subtitle": "Der meiste durchschnittliche Schaden pro Match",
+            "stats": [
+                {
+                    "place": 0,
+                    "name": "Spackomat500",
+                    "value": "116.58"
+                },
+                {
+                    "place": 1,
+                    "name": "Detadras",
+                    "value": "105.80"
+                },
+                {
+                    "place": 2,
+                    "name": "sicktastick",
+                    "value": "83.94"
+                },
+                {
+                    "place": 3,
+                    "name": "Salzjolle",
+                    "value": "82.64"
+                },
+                {
+                    "place": 4,
+                    "name": "LilPepe1337",
+                    "value": "73.82"
+                },
+                {
+                    "place": 5,
+                    "name": "Pferdinand",
+                    "value": "61.26"
+                },
+                {
+                    "place": 6,
+                    "name": "mafbaf221",
+                    "value": "52.04"
+                },
+                {
+                    "place": 7,
+                    "name": "baddley",
+                    "value": "51.58"
+                },
+                {
+                    "place": 8,
+                    "name": "JKi98",
+                    "value": "41.24"
+                },
+                {
+                    "place": 9,
+                    "name": "Mendeluni",
+                    "value": "35.48"
+                },
+                {
+                    "place": 10,
+                    "name": "ViV",
+                    "value": "15.84"
+                }
+            ],
+            "image": "he_grenade.jpg"
+        },
+        {
+            "title": "Incendiary Grenade-Meister",
+            "subtitle": "Der meiste durchschnittliche Schaden pro Match",
+            "stats": [
+                {
+                    "place": 0,
+                    "name": "ViV",
+                    "value": "42.50"
+                },
+                {
+                    "place": 1,
+                    "name": "Pferdinand",
+                    "value": "39.64"
+                },
+                {
+                    "place": 2,
+                    "name": "Salzjolle",
+                    "value": "38.58"
+                },
+                {
+                    "place": 3,
+                    "name": "baddley",
+                    "value": "33.42"
+                },
+                {
+                    "place": 4,
+                    "name": "LilPepe1337",
+                    "value": "32.56"
+                },
+                {
+                    "place": 5,
+                    "name": "JKi98",
+                    "value": "32.38"
+                },
+                {
+                    "place": 6,
+                    "name": "mafbaf221",
+                    "value": "28.60"
+                },
+                {
+                    "place": 7,
+                    "name": "sicktastick",
+                    "value": "26.66"
+                },
+                {
+                    "place": 8,
+                    "name": "Spackomat500",
+                    "value": "26.24"
+                },
+                {
+                    "place": 9,
+                    "name": "Detadras",
+                    "value": "24.56"
+                },
+                {
+                    "place": 10,
+                    "name": "Mendeluni",
+                    "value": "18.98"
+                }
+            ],
+            "image": "incendiary_damage.jpg"
+        },
+        {
+            "title": "AK-47-Meister",
+            "subtitle": "Der meiste durchschnittliche Schaden pro Match",
+            "stats": [
+                {
+                    "place": 0,
+                    "name": "baddley",
+                    "value": "1073.84"
+                },
+                {
+                    "place": 1,
+                    "name": "Pferdinand",
+                    "value": "819.64"
+                },
+                {
+                    "place": 2,
+                    "name": "LilPepe1337",
+                    "value": "714.02"
+                },
+                {
+                    "place": 3,
+                    "name": "sicktastick",
+                    "value": "680.60"
+                },
+                {
+                    "place": 4,
+                    "name": "Salzjolle",
+                    "value": "661.32"
+                },
+                {
+                    "place": 5,
+                    "name": "mafbaf221",
+                    "value": "656.00"
+                },
+                {
+                    "place": 6,
+                    "name": "Spackomat500",
+                    "value": "652.98"
+                },
+                {
+                    "place": 7,
+                    "name": "Detadras",
+                    "value": "591.94"
+                },
+                {
+                    "place": 8,
+                    "name": "ViV",
+                    "value": "569.36"
+                },
+                {
+                    "place": 9,
+                    "name": "JKi98",
+                    "value": "557.80"
+                },
+                {
+                    "place": 10,
+                    "name": "Mendeluni",
+                    "value": "388.52"
+                }
+            ],
+            "image": "ak_damage.jpg"
+        },
+        {
+            "title": "AWP-Meister",
+            "subtitle": "Der meiste durchschnittliche Schaden pro Match",
+            "stats": [
+                {
+                    "place": 0,
+                    "name": "LilPepe1337",
+                    "value": "575.08"
+                },
+                {
+                    "place": 1,
+                    "name": "Detadras",
+                    "value": "388.90"
+                },
+                {
+                    "place": 2,
+                    "name": "mafbaf221",
+                    "value": "245.96"
+                },
+                {
+                    "place": 3,
+                    "name": "Spackomat500",
+                    "value": "178.22"
+                },
+                {
+                    "place": 4,
+                    "name": "Salzjolle",
+                    "value": "153.64"
+                },
+                {
+                    "place": 5,
+                    "name": "sicktastick",
+                    "value": "85.22"
+                },
+                {
+                    "place": 6,
+                    "name": "Mendeluni",
+                    "value": "73.22"
+                },
+                {
+                    "place": 7,
+                    "name": "JKi98",
+                    "value": "46.44"
+                },
+                {
+                    "place": 8,
+                    "name": "Pferdinand",
+                    "value": "34.96"
+                },
+                {
+                    "place": 9,
+                    "name": "ViV",
+                    "value": "34.30"
+                },
+                {
+                    "place": 10,
+                    "name": "baddley",
+                    "value": "17.42"
+                }
+            ],
+            "image": "awp.png"
+        },
+        {
+            "title": "M4A1-Meister",
+            "subtitle": "Der meiste durchschnittliche Schaden pro Match",
+            "stats": [
+                {
+                    "place": 0,
+                    "name": "Spackomat500",
+                    "value": "657.74"
+                },
+                {
+                    "place": 1,
+                    "name": "baddley",
+                    "value": "587.02"
+                },
+                {
+                    "place": 2,
+                    "name": "Pferdinand",
+                    "value": "555.62"
+                },
+                {
+                    "place": 3,
+                    "name": "ViV",
+                    "value": "513.78"
+                },
+                {
+                    "place": 4,
+                    "name": "sicktastick",
+                    "value": "489.00"
+                },
+                {
+                    "place": 5,
+                    "name": "Salzjolle",
+                    "value": "475.90"
+                },
+                {
+                    "place": 6,
+                    "name": "mafbaf221",
+                    "value": "407.06"
+                },
+                {
+                    "place": 7,
+                    "name": "LilPepe1337",
+                    "value": "401.90"
+                },
+                {
+                    "place": 8,
+                    "name": "JKi98",
+                    "value": "348.54"
+                },
+                {
+                    "place": 9,
+                    "name": "Mendeluni",
+                    "value": "333.06"
+                },
+                {
+                    "place": 10,
+                    "name": "Detadras",
+                    "value": "233.52"
+                }
+            ],
+            "image": "m4a1_damage.jpg"
+        },
+        {
+            "title": "M4A4-Meister",
+            "subtitle": "Der meiste durchschnittliche Schaden pro Match",
+            "stats": [
+                {
+                    "place": 0,
+                    "name": "Detadras",
+                    "value": "89.74"
+                },
+                {
+                    "place": 1,
+                    "name": "baddley",
+                    "value": "40.50"
+                },
+                {
+                    "place": 2,
+                    "name": "mafbaf221",
+                    "value": "33.26"
+                },
+                {
+                    "place": 3,
+                    "name": "Mendeluni",
+                    "value": "27.90"
+                },
+                {
+                    "place": 4,
+                    "name": "Salzjolle",
+                    "value": "11.70"
+                },
+                {
+                    "place": 5,
+                    "name": "JKi98",
+                    "value": "10.72"
+                },
+                {
+                    "place": 6,
+                    "name": "Spackomat500",
+                    "value": "7.28"
+                },
+                {
+                    "place": 7,
+                    "name": "ViV",
+                    "value": "4.24"
+                },
+                {
+                    "place": 8,
+                    "name": "sicktastick",
+                    "value": "3.96"
+                },
+                {
+                    "place": 9,
+                    "name": "Pferdinand",
+                    "value": "1.02"
+                }
+            ],
+            "image": "m4a4_damage.jpg"
+        },
+        {
+            "title": "Desert Eagle-Meister",
+            "subtitle": "Der meiste durchschnittliche Schaden pro Match",
+            "stats": [
+                {
+                    "place": 0,
+                    "name": "LilPepe1337",
+                    "value": "138.28"
+                },
+                {
+                    "place": 1,
+                    "name": "mafbaf221",
+                    "value": "133.30"
+                },
+                {
+                    "place": 2,
+                    "name": "JKi98",
+                    "value": "109.06"
+                },
+                {
+                    "place": 3,
+                    "name": "baddley",
+                    "value": "102.42"
+                },
+                {
+                    "place": 4,
+                    "name": "Salzjolle",
+                    "value": "92.68"
+                },
+                {
+                    "place": 5,
+                    "name": "Spackomat500",
+                    "value": "83.28"
+                },
+                {
+                    "place": 6,
+                    "name": "Pferdinand",
+                    "value": "82.12"
+                },
+                {
+                    "place": 7,
+                    "name": "Detadras",
+                    "value": "77.24"
+                },
+                {
+                    "place": 8,
+                    "name": "sicktastick",
+                    "value": "60.58"
+                },
+                {
+                    "place": 9,
+                    "name": "ViV",
+                    "value": "40.54"
+                },
+                {
+                    "place": 10,
+                    "name": "Mendeluni",
+                    "value": "36.28"
+                }
+            ],
+            "image": "deagle_damage.jpg"
+        },
+        {
+            "title": "\"Ich flash dich rein\"",
+            "subtitle": "Die meisten durchschnittlichen Flash Assists pro Match",
+            "stats": [
+                {
+                    "place": 0,
+                    "name": "LilPepe1337",
+                    "value": "2.92"
+                },
+                {
+                    "place": 1,
+                    "name": "Pferdinand",
+                    "value": "2.26"
+                },
+                {
+                    "place": 2,
+                    "name": "Detadras",
+                    "value": "2.24"
+                },
+                {
+                    "place": 3,
+                    "name": "ViV",
+                    "value": "2.22"
+                },
+                {
+                    "place": 4,
+                    "name": "baddley",
+                    "value": "1.60"
+                },
+                {
+                    "place": 5,
+                    "name": "Spackomat500",
+                    "value": "1.60"
+                },
+                {
+                    "place": 6,
+                    "name": "Salzjolle",
+                    "value": "1.58"
+                },
+                {
+                    "place": 7,
+                    "name": "mafbaf221",
+                    "value": "1.50"
+                },
+                {
+                    "place": 8,
+                    "name": "sicktastick",
+                    "value": "1.40"
+                },
+                {
+                    "place": 9,
+                    "name": "JKi98",
+                    "value": "0.88"
+                },
+                {
+                    "place": 10,
+                    "name": "Mendeluni",
+                    "value": "0.42"
+                }
+            ],
+            "image": "flash_assist.jpg"
+        },
+        {
+            "title": "T-Side-Opener",
+            "subtitle": "Die meisten durchschnittlichen First Kills pro Match auf T Seite",
+            "stats": [
+                {
+                    "place": 0,
+                    "name": "mafbaf221",
+                    "value": "1.46"
+                },
+                {
+                    "place": 1,
+                    "name": "Salzjolle",
+                    "value": "1.45"
+                },
+                {
+                    "place": 2,
+                    "name": "baddley",
+                    "value": "1.45"
+                },
+                {
+                    "place": 3,
+                    "name": "Pferdinand",
+                    "value": "1.38"
+                },
+                {
+                    "place": 4,
+                    "name": "Detadras",
+                    "value": "1.31"
+                },
+                {
+                    "place": 5,
+                    "name": "LilPepe1337",
+                    "value": "1.16"
+                },
+                {
+                    "place": 6,
+                    "name": "ViV",
+                    "value": "1.02"
+                },
+                {
+                    "place": 7,
+                    "name": "JKi98",
+                    "value": "0.94"
+                },
+                {
+                    "place": 8,
+                    "name": "Spackomat500",
+                    "value": "0.88"
+                },
+                {
+                    "place": 9,
+                    "name": "Mendeluni",
+                    "value": "0.76"
+                },
+                {
+                    "place": 10,
+                    "name": "sicktastick",
+                    "value": "0.76"
+                }
+            ],
+            "image": "opening_kills_t.jpg"
+        },
+        {
+            "title": "Billigste Ramschware",
+            "subtitle": "Am meisten getraded worden pro Match",
+            "stats": [
+                {
+                    "place": 0,
+                    "name": "Salzjolle",
+                    "value": "3.96"
+                },
+                {
+                    "place": 1,
+                    "name": "ViV",
+                    "value": "3.66"
+                },
+                {
+                    "place": 2,
+                    "name": "baddley",
+                    "value": "3.54"
+                },
+                {
+                    "place": 3,
+                    "name": "mafbaf221",
+                    "value": "3.46"
+                },
+                {
+                    "place": 4,
+                    "name": "LilPepe1337",
+                    "value": "3.42"
+                },
+                {
+                    "place": 5,
+                    "name": "Pferdinand",
+                    "value": "3.14"
+                },
+                {
+                    "place": 6,
+                    "name": "JKi98",
+                    "value": "3.10"
+                },
+                {
+                    "place": 7,
+                    "name": "Detadras",
+                    "value": "3.08"
+                },
+                {
+                    "place": 8,
+                    "name": "sicktastick",
+                    "value": "3.04"
+                },
+                {
+                    "place": 9,
+                    "name": "Spackomat500",
+                    "value": "3.00"
+                },
+                {
+                    "place": 10,
+                    "name": "Mendeluni",
+                    "value": "1.96"
+                }
+            ],
+            "image": "player_traded.png"
+        }
+    ],
+    "metadata": {
+        "last_modified": "07/03/2022 20:46:05",
+        "zeitraum": 50
+    }
+}
