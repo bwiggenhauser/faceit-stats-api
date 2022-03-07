@@ -1,1 +1,5 @@
-# faceit-stats-api
+# Heroku-Server
+
+### Endpoints:
+
+    "/" -> Returns full faceit data
