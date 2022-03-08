@@ -2,8 +2,12 @@ const express = require("express")
 const app = express()
 const http = require("http")
 const server = http.createServer(app)
+const cors = require('cors');
 
 app.use(express.static("public"))
+app.use(cors({
+    origin: "*"
+}))
 
 const faceitData = require("./faceitData.json")
 
