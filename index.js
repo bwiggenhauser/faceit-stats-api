@@ -15,6 +15,12 @@ app.get("/", (req, res) => {
 	res.send(faceitData)
 })
 
-server.listen(process.env.PORT || 3000, () => {
-	console.log("Listening on port 3000 ...")
+app.get("/status", (req, res) => {
+    res.send({
+        "status" : "active"
+    })
+})
+
+server.listen(5000, () => {
+	console.log("Listening on port 5000 ...")
 })
