@@ -1,4 +1,4 @@
-# Heroku-Server
+# IONOS-Server
 
 ### Endpoints:
 
