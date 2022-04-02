@@ -14,9 +14,9 @@ app.use(
 const datapath = "/root/faceit_data/";
 
 const kills_path = datapath + "kills.json";
-const opening_kills = require(datapath + "opening_kills.json");
-const weapon_damages = require(datapath + "weapon_damages.json");
-const grenades = require(datapath + "grenades.json");
+const opening_kills_path = datapath + "opening_kills.json";
+const weapon_damages_path = datapath + "weapon_damages.json";
+const grenades_path = datapath + "grenades.json";
 
 app.get("/", (req, res) => {
 	res.send({
@@ -26,7 +26,22 @@ app.get("/", (req, res) => {
 
 app.get("/kills", (req, res) => {
 	const data = require(kills_path);
-    res.send(data)
+	res.send(data);
+});
+
+app.get("/openingkills", (req, res) => {
+	const data = require(opening_kills_path);
+	res.send(data);
+});
+
+app.get("/weapondamages", (req, res) => {
+	const data = require(weapon_damages_path);
+	res.send(data);
+});
+
+app.get("/grenades", (req, res) => {
+	const data = require(grenades_path);
+	res.send(data);
 });
 
 server.listen(5000, () => {
