@@ -13,20 +13,24 @@ app.use(
 
 const datapath = "/root/faceit_data/";
 
+const general_info_path = datapath + "general_information.json";
 const kills_path = datapath + "kills.json";
 const opening_kills_path = datapath + "opening_kills.json";
 const weapon_damages_path = datapath + "weapon_damages.json";
 const grenades_path = datapath + "grenades.json";
 
+function fetchAndSend(path, res) {
+	fetch(path)
+		.then((response) => response.json())
+		.then((data) => res.send(data));
+}
+
 app.get("/", (req, res) => {
-	res.send({
-		status: "active",
-	});
+	fetchAndSend(general_info_path, res);
 });
 
 app.get("/kills", (req, res) => {
-	const data = require(kills_path);
-	res.send(data);
+	fetchAndSend(kills_path, res);
 });
 
 app.get("/openingkills", (req, res) => {
