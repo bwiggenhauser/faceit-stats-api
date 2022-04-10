@@ -20,6 +20,7 @@ const opening_kills_path = datapath + "opening_kills.json";
 const weapon_damages_path = datapath + "weapon_damages.json";
 const grenades_path = datapath + "grenades.json";
 const damages_path = datapath + "damages.json";
+const deaths_path = datapath + "deaths.json";
 
 app.get("/", (req, res) => {
 	res.sendFile(general_info_path);
@@ -27,6 +28,10 @@ app.get("/", (req, res) => {
 
 app.get("/kills", (req, res) => {
 	res.sendFile(kills_path);
+});
+
+app.get("/deaths", (req, res) => {
+	res.sendFile(deaths_path);
 });
 
 app.get("/openingkills", (req, res) => {
