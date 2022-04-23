@@ -17,8 +17,8 @@ const newDatapathLast30 = "/root/new_faceit_data/last_30/";
 // const datapath = "C:/Users/baswi/Documents/GitHub/advanced-faceit-get-statistics/faceit_data/";
 
 const general_info_path = datapath + "general_information.json";
-const new_general_info_path = newDatapath + "general_information.json";
-const new_general_info_path_last_30 = newDatapath + "general_information.json";
+const new_general_info_path = newDatapathFull + "general_information.json";
+const new_general_info_path_last30 = newDatapathLast30 + "general_information.json";
 
 const kills_path = datapath + "kills.json";
 const new_kills_path = newDatapathFull + "kills.json";
